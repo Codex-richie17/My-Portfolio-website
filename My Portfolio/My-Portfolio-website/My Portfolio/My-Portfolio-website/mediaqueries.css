@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+@media screen and (max-width: 1200px) {
+  #desktop-nav {
+    display: none;
+  }
+  #hamburger-nav {
+    display: flex;
+  }
+}
+=======
+@media screen and (max-width: 1200px) {
+  #desktop-nav {
+    display: none;
+  }
+  #hamburger-nav {
+    display: flex;
+  }
+}
+>>>>>>> 71958f395fdac87afa2cf07becccd5d4a5dc992b
